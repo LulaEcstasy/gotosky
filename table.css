@@ -1,0 +1,43 @@
+}
+
+table {
+   width:100%;
+   min-width:320px;
+}
+
+th {
+   min-width:100px;
+}
+
+th.fixed {
+   width:100px;
+   min-width:100px;
+}
+
+th.fluid {
+   min-width:100px;
+}
+
+td.fluid div {
+   width:100%;
+   min-width:100px;
+}
+
+td.fluid {
+   min-width:100px;
+   width:100%;
+}
+
+td {
+
+   min-width:100px;
+
+}
+
+tr td {
+   text-align:center;
+}
+
+table th, table td {
+   min-width:100px;
+}

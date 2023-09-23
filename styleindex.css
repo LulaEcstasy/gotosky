@@ -1,0 +1,84 @@
+
+a:link {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: none;
+}
+#header {
+    background-color: rgba(0, 0, 0, 0.0);
+  padding: 0px 0px;
+  color: #ff3300;
+  text-align: center;
+  font-size: 30px; 
+  font-weight: bold;
+  position: fixed;
+  top: 0;
+  width: 60%;
+}
+
+
+
+table, th, td {
+    border: 10px double rgba(0, 0, 0, 0.2);
+	    border-color: #E9A8EA;
+		border-width: 10px;
+		    background-color: rgba(0, 0, 0, 0.4);
+  padding: 5px;
+text-align: center;
+position:center;
+margin: auto;
+padding-left: 10px;
+padding-right: 10px;
+padding-bottom: 10px;
+padding-top: 10px;
+  width: auto;
+}
+
+ img {
+     margin: auto;
+	 position: center;
+width: 95%;
+height: 95%;
+max-width: 768px;
+
+}
+
+    .crop {
+        width: 640px;
+        height: 480px;
+    }
+        .crop img {
+        width: 640px;
+        height: 480px;
+    }
+	td image 
+{
+    display: block;
+	margin: auto;
+	position: center;
+	
+}
+
+.transbox000 {				
+    border: 10px double rgba(0, 0, 0, 0.2);
+	    border-color: #E9A8EA;
+		    background-color: rgba(0, 0, 0, 0.2);
+  padding: 5px;
+text-align: center;
+position:center;
+margin: auto;
+padding-left: 10px;
+padding-right: 10px;
+padding-bottom: 10px;
+padding-top: 10px;
+}
+h1, h2, h3 {
+color: pink;
+margin-top: 10px;
+    margin-bottom: 5px;
+}

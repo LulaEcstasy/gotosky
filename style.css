@@ -1,0 +1,63 @@
+        /* okienka w okienkach */
+
+.transbox {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    padding: 0px;
+    padding-bottom: 50px;
+display: inline;
+
+}
+
+.transbox000 {				
+	height: auto;
+	width: auto;
+	padding-bottom: 20px;
+	border: 0px double rgba(0, 0, 0, 0.8);
+	margin-top: 15px;
+display: grid;
+}
+
+
+.transboxyz {
+	font-family: 'Luminari', cursive, fantasy;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-color: rgba(0, 0, 0, 0.6);
+	border: 5px double rgba(0, 0, 0, 0.8);
+	margin-top: 0px;
+	margin-bottom: -3px;
+	font-size: 16px;
+	text-align: center;
+	display: grid;
+	align-content: center;
+	height: 40px;
+	color: lightpink;
+}
+
+.transbox1 {
+    width: auto;
+    padding: 10px;
+    border: 5px double rgba(0, 0, 0, 0.8);
+    margin: 0px;
+    margin-bottom: 0px;
+    height: auto;
+    color: #ff3300;
+    background-color: rgba(0, 0, 0, 0.4);
+display: grid;
+justify-items: center;
+}
+
+.transbox777 {
+    width: auto;
+    padding: 0px;
+    border: 5px double rgba(0, 0, 0, 0.8);
+    margin-top: 5px;
+    margin-bottom: 5px;
+    height: auto;
+    color: #ff3300;
+    background-color: rgba(0, 0, 0, 0.2);
+}							
